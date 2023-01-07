@@ -1,8 +1,4 @@
-
-
 <br />
-
-
 <h1 align="center">SageWallScript</h3>
 <div align="center">
     <tr>
