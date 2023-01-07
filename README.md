@@ -1,5 +1,10 @@
 <br />
 <h3 align="center">SageWallScript</h3>
+
+
+<br />
+
+
 <div align="center">
     <tr>
         <td>
@@ -11,6 +16,11 @@
     </tr>
 
   <p align="center">
+      
+
+<br />
+
+
         This script is timing when you have to place the wall for your wall boost.
     <br />
     <br />
