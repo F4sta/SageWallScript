@@ -14,6 +14,7 @@
             <img src="icon_dark.png" width="128" height="128">
         </td>
     </tr>
+    <p><p/>
   <p align="center">
         This script is timing when you have to place the wall for your wall boost.
     <br />
