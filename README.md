@@ -49,15 +49,12 @@ ___
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70468074/184510701-65c94d98-b223-48dc-9b09-e4ca12b8d7d9.gif" >
 </p>
-
-___
+<br />
 
 
 ## What am i using for ?
 
 > I personaly like to use it for walls that i learned from [Grimm](https://www.twitch.tv/grimm).
-
-___
 
 ### Discord: Krist..#1394
 ### Valorant Profile: f | Asta#00000
