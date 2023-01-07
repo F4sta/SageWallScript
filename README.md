@@ -50,9 +50,12 @@ Well Done, you installed my program :D
 > Take out your Sage wall in-game.
 > Press the "Script Key".
 ___
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70468074/184510701-65c94d98-b223-48dc-9b09-e4ca12b8d7d9.gif" >
 </p>
+
 ___
+
 ### Discord: Krist..#1394
 ### Valorant Profile: f | Asta#00000
