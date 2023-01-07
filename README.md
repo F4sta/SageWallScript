@@ -1,5 +1,5 @@
 # SageWallScript
-This script is timing when you have to place the wall in the air.
+This script is timing when you have to place the wall for your wall boost.
 
 
 ## What am i using for ?
