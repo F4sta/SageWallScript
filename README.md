@@ -1,5 +1,6 @@
 
 <br />
+<h3 align="center">SageWallScript</h3>
 <div align="center">
     <tr>
         <td>
@@ -9,9 +10,6 @@
             <img src="icon_dark.png" width="128" height="128">
         </td>
     </tr>
-
-
-  <h3 align="center">SageWallScript</h3>
 
   <p align="center">
         This script is timing when you have to place the wall for your wall boost.
@@ -26,7 +24,6 @@
 </div>
 
 
-<br />
 ## What am i using for ?
 
 > I personaly like to use it for walls that i learned from [Grimm](https://www.twitch.tv/grimm).
@@ -50,13 +47,12 @@ Well Done, you installed my program :D
 
 ## How to use it?
 
-
 > Take out your Sage wall in-game.
 > Press the "Script Key".
-
+___
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70468074/184510701-65c94d98-b223-48dc-9b09-e4ca12b8d7d9.gif" >
 </p>
-
+___
 ### Discord: Krist..#1394
 ### Valorant Profile: f | Asta#00000
