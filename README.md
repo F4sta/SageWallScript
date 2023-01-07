@@ -1,5 +1,5 @@
 # SageWallScript
-This script is for sage (Valorant). 
+This script is for sage. 
 It does probably perfect jump wall. 
 ___
 >I use it to do grim walls.
