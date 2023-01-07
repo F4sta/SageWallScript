@@ -48,6 +48,7 @@ Well Done, you installed my program :D
 ## How to use it?
 
 > Take out your Sage wall in-game.
+
 > Press the "Script Key".
 ___
 
