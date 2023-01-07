@@ -17,6 +17,9 @@ The Steps are really easy.
 > 4. At the 1st run it will ask for your "Script key", that actually the keybind for the scrip.
 > 5. Open Valorant and bind your 2nd slot of fire button to 'P'.
 
+If you dont prefer the 'P' key you can write over it in source code ;)
+There are chance i will create configure for this.
+
 Well Done, you installed my program :D
 
 
