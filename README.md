@@ -11,10 +11,11 @@
     </tr>
 
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SageWallScript</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+        This script is timing when you have to place the wall for your wall boost.
+    <br />
     <br />
         <p align="center">
           <img src="https://user-images.githubusercontent.com/70468074/184511556-23dbc545-51ff-4c1b-842c-1540a54bc2bc.PNG">
@@ -24,16 +25,13 @@
   </p>
 </div>
 
-# SageWallScript
 
-This script is timing when you have to place the wall for your wall boost.
-
-
+<br />
 ## What am i using for ?
 
 > I personaly like to use it for walls that i learned from [Grimm](https://www.twitch.tv/grimm).
 
-
+<br />
 ## How to install?
 
 The Steps are really easy.
@@ -49,7 +47,7 @@ There are chance i will create configure for this.
 
 Well Done, you installed my program :D
 
-
+<br />
 ## How to use it?
 
 
@@ -62,4 +60,5 @@ Well Done, you installed my program :D
 <br />
 <br />
 ### Discord: Krist..#1394
+<br />
 ### Valorant Profile: f | Asta#00000
