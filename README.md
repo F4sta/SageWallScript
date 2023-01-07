@@ -1,16 +1,35 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="icon.png" width="80" height="80">
+    <tr>
+        <td>
+            <img src="icon.png" width="80" height="80">
+        </td>
+        <td>
+            <img src="icon_dark_theme.png" width="80" height="80">
+        </td>
+    </tr>
 
-  <h3 align="center">SageWallScript</h3>
+
+  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    This script is timing when you have to place the wall for your wall boost.
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
+
+# SageWallScript
+
+This script is timing when you have to place the wall for your wall boost.
 
 
 ## What am i using for ?
