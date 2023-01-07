@@ -3,10 +3,10 @@
 <div align="center">
     <tr>
         <td>
-            <img src="icon.png" width="80" height="80">
+            <img src="icon.png" width="128" height="128">
         </td>
         <td>
-            <img src="icon_dark_theme.png" width="80" height="80">
+            <img src="icon_dark.png" width="128" height="128">
         </td>
     </tr>
 
