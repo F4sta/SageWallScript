@@ -1,6 +1,5 @@
 
-<br />
-<h3 align="center">SageWallScript</h3>
+<h2 align="center">SageWallScript</h3>
 <div align="center">
     <tr>
         <td>
@@ -24,6 +23,10 @@
 </div>
 
 
+<br />
+
+
+
 ## How to install?
 
 The Steps are really easy.
@@ -40,6 +43,10 @@ There are chance i will create configure for this.
 Well Done, you installed my program :D
 
 
+
+<br />
+
+
 ## How to use it?
 
 > 1. Take out your Sage wall in-game.
@@ -49,12 +56,18 @@ ___
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70468074/184510701-65c94d98-b223-48dc-9b09-e4ca12b8d7d9.gif" >
 </p>
+
+
 <br />
 
 
 ## What am i using for ?
 
 > I personaly like to use it for walls that i learned from [Grimm](https://www.twitch.tv/grimm).
+
+
+<br />
+
 
 ### Discord: Krist..#1394
 ### Valorant Profile: f | Asta#00000
