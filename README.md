@@ -19,11 +19,6 @@
         This script is timing when you have to place the wall for your wall boost.
     <br />
     <br />
-        <p align="center">
-          <img src="https://user-images.githubusercontent.com/70468074/184511556-23dbc545-51ff-4c1b-842c-1540a54bc2bc.PNG">
-        </p>
-    <br />
-    <br />
   </p>
 </div>
 
