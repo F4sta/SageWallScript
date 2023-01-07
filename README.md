@@ -15,10 +15,10 @@
         </td>
     </tr>
 
+    <br />
   <p align="center">
       
 
-    <br />
         This script is timing when you have to place the wall for your wall boost.
     <br />
     <br />
